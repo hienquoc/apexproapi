@@ -36,8 +36,8 @@
     "post_user_fast_withdrawal": "fast-withdraw",
     "post_user_withdrawal_create": "create-withdrawal",
     "post_user_withdrawal_to_address": "create-withdrawal-to-address",
-    "private_websocket_endpoint": "wss://quote.pro.apex.exchange/realtime_private",
-    "public_websocket_endpoint": "wss://quote-testnet.pro.apex.exchange/realtime_public",
+    "websocket_endpoint_private": "wss://quote.pro.apex.exchange/realtime_private",
+    "websocket_endpoint_public": "wss://quote-testnet.pro.apex.exchange/realtime_public",
     "version1": "v1",
     "version2": "v2"
   }
