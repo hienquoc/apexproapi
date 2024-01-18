@@ -1,5 +1,6 @@
 {
   "apexpro": {
+    "base_endpoint_base": "https://pro.apex.exchange",
     "base_endpoint_mainnet": "https://pro.apex.exchange/api/",
     "base_endpoint_testnet": "https://testnet.pro.apex.exchange/api/",
     "get_all_symbols": "symbols",
